@@ -1,4 +1,4 @@
-# Zomato_Sales_Report-Using-Excel
+# Zomato_Sales_Dashbaord-Using-Excel
 Zomato Restaurant Data Analysis Project
 This project involved analyzing Zomato restaurant data using advanced Excel functions. The objectives of the project were:
 
